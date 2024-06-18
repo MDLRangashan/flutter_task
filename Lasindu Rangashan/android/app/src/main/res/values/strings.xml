@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1273268323650664</string>
+    <string name="fb_login_protocol_scheme">fb1273268323650664</string>
+    <string name="facebook_client_token">cd16abe966f538cf7239f873b0f53276</string>
+    <string name="app_name">"keshan"</string>
+
+</resources>
